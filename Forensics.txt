@@ -1,0 +1,13 @@
+https://github.com/Yamato-Security/hayabusa For event Log Analysis
+Cybertriage like Autosay working 
+VM dump and then again the install
+PISF
+CTDR PTA
+https://ransomware.live/country/pakistan  current attack list 
+https://ransomfeed.it/ 
+https://github.com/fastfire/deepdarkCTI to check the ransomware
+Tails OS for dark web
+7max for app file looking
+HTTP Tool for mobile data capture and for one year search the http crack then mail to the owner
+
+
