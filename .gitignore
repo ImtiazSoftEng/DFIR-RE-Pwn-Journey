@@ -1,3 +1,6 @@
 
 # Large forensic evidence files
 *.zip
+
+# Forensic evidence images
+**/temp_extract_dir/
